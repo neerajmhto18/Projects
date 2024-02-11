@@ -12,7 +12,7 @@ import java.io.*;
 import java.net.Socket;
 
 public class MultiUserFileClient extends JFrame {
-    private static final String SERVER_ADDRESS = "192.168.128.87";
+    private static final String SERVER_ADDRESS = "10.140.0.233";
     private static final int PORT = 7777;
 
     private final JButton downloadButton;
