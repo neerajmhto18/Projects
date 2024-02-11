@@ -1,0 +1,3 @@
+Hello user 
+Our project is about file sharing.
+The goal of this project is to design and implement a file transfer application in Java.
